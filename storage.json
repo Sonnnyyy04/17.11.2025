@@ -1,0 +1,19 @@
+{
+  "Path": "storage.json",
+  "batches": {
+    "1": {
+      "id": 1,
+      "links": [
+        "google.com",
+        "badlink.bbb",
+        "yandex.ru"
+      ],
+      "statuses": {
+        "badlink.bbb": "not available",
+        "google.com": "available",
+        "yandex.ru": "available"
+      }
+    }
+  },
+  "last_id": 1
+}
